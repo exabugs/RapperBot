@@ -1,0 +1,16 @@
+
+開発ツール
+sudo yum groupinstall "Development Tools"
+
+Mecab
+http://qiita.com/katsuyuki/items/65f79d44f5e9a0397d31
+
+yum install ruby-devel
+gem install bundler
+gem install io-console
+
+
+rhymer
+https://github.com/suzuki86/rhymer
+
+
